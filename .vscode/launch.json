@@ -1,0 +1,14 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "al",
+            "request": "launch",
+            "server": "https://navfeb2018.westeurope.cloudapp.azure.com",
+             "serverInstance": "NAV",
+            "tenant": "",
+             "authentication": "UserPassword",
+            "startupObjectId": 22
+        }
+    ]
+}
